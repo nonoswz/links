@@ -22,6 +22,9 @@
 - Let's encrypt : https://letsencrypt.org/docs/
 - External DNS (Azure) : https://github.com/kubernetes-sigs/external-dns/blob/master/docs/tutorials/azure.md
 
+## Helm Charts
+- Bitnami : https://github.com/bitnami/charts/tree/master/bitnami
+
 
 ## Tools
 - JWT.io : https://jwt.io/#debugger-io
