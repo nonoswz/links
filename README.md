@@ -34,6 +34,11 @@
 - JSONPath evaluator : https://jsonpath.com/
 - Swagger Editor : https://editor.swagger.io/
 - IP Calculator/Subnetting : http://jodies.de/ipcalc?host=10.0.0.0&mask1=16&mask2=
+- MD Online Editor : https://stackedit.io/
 
 ## Tutorial 
 - A Tour of Go : https://tour.golang.org/
+- DQN with Keras : https://keras.io/examples/rl/deep_q_network_breakout/
+
+## AI
+- OpenAI : https://openai.com/
